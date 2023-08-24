@@ -1,8 +1,24 @@
-# React + Vite
+# Luisa Cadena's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio repository! This repository contains the code and files for my personal portfolio website, showcasing my projects, skills, and experience as a web developer.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Portfolio](#projects)
+- [Blog](#Blog)
+- [Getintouch](#Get in touch)
+
+## About Me
+
+I am a passionate developer with a keen interest in Web development. I enjoy to challenge myself and keep growing. My goal is to I'm determined to develop projects that truly amaze people.
+
+
+## Skills
+
+
+## Contact
+connect with me on [LinkedIn](https://www.linkedin.com/in/luisa-maria-cadena/) for collaboration or inquiries.
+
+Thank you for visiting my portfolio!

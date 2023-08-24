@@ -3,10 +3,13 @@
     return (
       <>
     <nav>
-        <ul>
-            <li>lista 1</li>
-            <li>lista 2</li>
-        </ul>
+        <ol>
+            <li>home</li>
+            <li>about me</li>
+            <li>portfolio</li>
+            <li>Blog</li>
+            <li>Contact</li>
+        </ol>
     </nav>
     </>  
     )
