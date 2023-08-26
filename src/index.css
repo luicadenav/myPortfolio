@@ -1,0 +1,18 @@
+#root {
+    --main-pink: #E14ECA;
+    --dark-blue-border: #344675;
+    --dark-blue-two: #171941;
+    --dark-blue: #2B3553;
+    --blue-border: #1D8CF8;
+    --light-blue: #5DCDEA;
+    --dark-purple-two: #51215E;
+    --white: #fff;
+    --green-neon: #00F2C3;
+    --orange-neon: #FF8D72;
+
+}
+
+body {
+    box-sizing: border-box;
+    font-family: poppins;
+}

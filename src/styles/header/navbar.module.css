@@ -1,3 +1,38 @@
 .navbar {
-    background-color: aqua;
+    display: flex;
+    background-color: var(--main-pink);
+    justify-content: center;
+
+}
+
+.navcontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.navcontainer ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    gap: 3.125rem;
+}
+
+.navcontainer ul li {
+    line-height: normal;
+    text-align: center;
+}
+
+.navcontainer img {
+    height: 50px;
+    padding: 3px;
+}
+
+
+
+.navcontainer select {
+    height: 30px;
 }
