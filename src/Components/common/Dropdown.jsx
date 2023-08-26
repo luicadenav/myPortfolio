@@ -6,7 +6,10 @@ function Dropdown() {
         <>
         <div className={styles.btnContainer}>
             <button>
-            <LanguageButton />
+                {<span>
+                    language
+                </span>}
+            <LanguageButton className={styles.icon} />
             
             </button>
         </div>
